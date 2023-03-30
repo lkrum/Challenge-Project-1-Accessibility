@@ -3,6 +3,8 @@
 ## Description
 I refactored existing code for a webpage to add semantic HTML elements for accessibility purposes. Specifically, I replaced non-descriptive tag names with semantic names that could be understood by a screen reader. Additionally, I consolidated repetitive lines of code in the CSS file and added comments and extra line breaks in the HTML file for readability.
 
+Link to live page:
+
 ## Installation
 N/A
 
