@@ -11,9 +11,9 @@ N/A
 ## Usage
 This page can be navigated through the navigation links at the top of the page. Each element should be able to be successfully read by screen readers.
 
-![Navigation Pane Screenshot](challenge-hw/Challenge-Project-1-Accessibility/Assets/images/Screenshot 1.png)
+![Navigation Pane Screenshot](/challenge-hw/Challenge-Project-1-Accessibility/Assets/images/Screenshot-1.png)
 
-![Main Page Screenshot](challenge-hw/Challenge-Project-1-Accessibility/Assets/images/Screenshot 2.png)
+![Main Page Screenshot](/challenge-hw/Challenge-Project-1-Accessibility/Assets/images/Screenshot-2.png)
 
 ## Credits
 
